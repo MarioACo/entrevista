@@ -33,7 +33,7 @@
                             </ol>
                             <ol>
                                 <label for="address">Direccion:</label>
-                                <input type="email" id="address" name="address" require class="form-control" aria-label="Text input with segmented dropdown button">
+                                <input type="text" id="address" name="address" require class="form-control" aria-label="Text input with segmented dropdown button">
                             </ol>
                             <ol>
                                 <label for="country">Pais:</label>
