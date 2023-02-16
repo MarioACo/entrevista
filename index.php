@@ -17,7 +17,7 @@
         <div class="card" style="width: 40rem;">
             <div class="card-body">
                 <div class="form-group">
-                    <form action="controlador/datos_generales.php" method="POST">
+                    <form action="model/datos_generales.php" method="POST">
                         <ul class="formulario">
                             <ol>
                                 <label for="name">Nombre:</label>
